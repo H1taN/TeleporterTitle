@@ -1,0 +1,9 @@
+{
+    "name": "Teleporter_Title",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/H1taN/TeleporterTitle",
+    "description": "Fun-made Port from Nexus. Shows the name of the teleport in the center of the screen",
+    "dependencies": [
+        "H1taN-TeleporterTitle-0.1.0.0"
+    ]
+}
